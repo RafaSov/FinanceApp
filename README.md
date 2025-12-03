@@ -324,7 +324,7 @@ SOFTWARE.
 
 **Seu Nome**
 
-- GitHub: [@srafasov](https://github.com/RafaSov)
+- GitHub: [@RafaSov](https://github.com/RafaSov)
 - LinkedIn: [Rafael Dutra](https://www.linkedin.com/in/olisouzarafael/)
 - Email: rafael.olivsou@gmail.com
 
