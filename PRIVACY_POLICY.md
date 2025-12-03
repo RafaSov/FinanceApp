@@ -1,6 +1,6 @@
 # 🔒 Política de Privacidade
 
-**NoControle - Controle Financeiro Pessoal**
+**FinanceApp - Controle Financeiro Pessoal**
 
 Última atualização: Dezembro de 2025
 
@@ -147,17 +147,17 @@ Você tem o direito de:
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
 - **Email:** rafael.olivsou@gmail.com
-- **GitHub:** [github.com/RafaSov/NoControle](https://github.com/RafaSov/NoControle)
+- **GitHub:** [github.com/RafaSov/FinanceApp](https://github.com/RafaSov/FinanceApp)
 
 ---
 
 ## 11. Consentimento
 
-Ao usar o NoControle, você concorda com esta Política de Privacidade.
+Ao usar o FinanceApp, você concorda com esta Política de Privacidade.
 
 ---
 
 <p align="center">
   <strong>Sua privacidade é nossa prioridade.</strong><br>
-  NoControle - Controle Financeiro Pessoal
+  FinanceApp - Controle Financeiro Pessoal
 </p>
