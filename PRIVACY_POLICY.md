@@ -153,7 +153,7 @@ Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
 ## 11. Consentimento
 
-Ao usar o FinanceApp, você concorda com esta Política de Privacidade.
+Ao usar o NoControle, você concorda com esta Política de Privacidade.
 
 ---
 
