@@ -1,4 +1,4 @@
-# 💰 FinanceApp - Controle Financeiro Pessoal
+# 💰 NoControle - Controle Financeiro Pessoal
 
 <p align="center">
   <img src="screenshots/app-icon.png" alt="FinanceApp Icon" width="120" height="120">
