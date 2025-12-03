@@ -298,5 +298,5 @@ Obrigado por contribuir! Cada contribuição, seja grande ou pequena, faz difere
 ## ❓ Dúvidas?
 
 Se tiver dúvidas, abra uma Issue com a tag `question` ou entre em contato:
-- Email: seu-email@exemplo.com
-- Twitter: @seu-usuario
+- Email: rafael.olivsou@gmail.com
+- Discord: raffinhaup
