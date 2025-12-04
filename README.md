@@ -322,7 +322,7 @@ SOFTWARE.
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Rafael Dutra**
 
 - GitHub: [@RafaSov](https://github.com/RafaSov)
 - LinkedIn: [Rafael Dutra](https://www.linkedin.com/in/olisouzarafael/)
