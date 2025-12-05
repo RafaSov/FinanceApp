@@ -1,7 +1,7 @@
-# 💰 FinanceApp - Controle Financeiro Pessoal
+# 💰 Continhas - Controle Financeiro Pessoal
 
 <p align="center">
-  <img src="Screenshots/app-icon.png" alt="FinanceApp Icon" width="120" height="120">
+  <img src="Screenshots/app-icon.png" alt="Continhas Icon" width="120" height="120">
 </p>
 
 <p align="center">
@@ -65,9 +65,9 @@
 O projeto utiliza a arquitetura **MVVM (Model-View-ViewModel)** com SwiftUI:
 
 ```
-FinanceApp/
+Continhas/
 ├── 📁 App/
-│   └── FinanceAppApp.swift          # Ponto de entrada + Splash Screen
+│   └── ContinhasApp.swift          # Ponto de entrada + Splash Screen
 ├── 📁 Models/
 │   └── Models.swift                  # Modelos de dados
 ├── 📁 ViewModels/
@@ -120,14 +120,14 @@ FinanceApp/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/RafaSov/FinanceApp.git
-cd FinanceApp
+git clone https://github.com/RafaSov/Continhas.git
+cd Continhas
 ```
 
 ### Abra no Xcode
 
 ```bash
-open FinanceApp.xcodeproj
+open Continhas.xcodeproj
 ```
 
 ### Execute
