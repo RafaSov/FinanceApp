@@ -1,6 +1,6 @@
 # 🤝 Guia de Contribuição
 
-Obrigado pelo interesse em contribuir com o **FinanceApp**! Este guia vai te ajudar a entender como participar do projeto.
+Obrigado pelo interesse em contribuir com o **Continhas**! Este guia vai te ajudar a entender como participar do projeto.
 
 ---
 
@@ -37,8 +37,8 @@ Clique no botão "Fork" no canto superior direito da página do GitHub.
 ### 2. Clone seu Fork
 
 ```bash
-git clone https://github.com/RafaSov/FinanceApp.git
-cd FinanceApp
+git clone https://github.com/RafaSov/Continhas.git
+cd Continhas
 ```
 
 ### 3. Crie uma Branch
@@ -88,7 +88,7 @@ Vá até o repositório original e clique em "New Pull Request".
 
 ## 🐛 Reportando Bugs
 
-Encontrou um bug? Abra uma [Issue](https://github.com/RafaSov/FinanceApp/issues) com:
+Encontrou um bug? Abra uma [Issue](https://github.com/RafaSov/Continhas/issues) com:
 
 ### Template de Bug Report:
 
@@ -124,7 +124,7 @@ Qualquer outro contexto sobre o problema.
 
 ## 💡 Sugerindo Melhorias
 
-Tem uma ideia? Abra uma [Issue](https://github.com/RafaSov/FinanceApp/issues) com:
+Tem uma ideia? Abra uma [Issue](https://github.com/RafaSov/Continhas/issues) com:
 
 ### Template de Feature Request:
 
@@ -263,7 +263,7 @@ class MyViewModel: ObservableObject {
 ## 📁 Estrutura do Projeto
 
 ```
-FinanceApp/
+Continhas/
 ├── App/                    # Ponto de entrada
 ├── Models/                 # Modelos de dados
 ├── ViewModels/             # Lógica de negócio
